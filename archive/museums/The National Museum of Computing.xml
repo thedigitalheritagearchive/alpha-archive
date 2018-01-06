@@ -1,0 +1,15 @@
+<heritage-individual>
+	<item name="The National Museum of Computing" type="museum" id="d251f4f70b2bc06d53eb6e6326aeae67">
+		<contact-list>
+			<contact medium="twitter">@tnmoc</contact>
+			<contact medium="https">www.tnmoc.org</contact>
+		</contact-list>
+		<bio>
+			The museum brings to life the history and ongoing development of computing for inspiration, education, learning and enjoyment.
+
+			We conserve, restore, reconstruct, and give hands-on access to historic computers and related artefacts – with a particular focus on those which were the result of pioneering British ingenuity.
+
+			Through our education programme, festivals, lectures, demonstrations and visitor activities, we set past and emerging technologies in the context of our rapidly developing information age to inspire future generations of computer scientists, engineers and inventors.
+		</bio>
+	</item>
+</heritage-individual>

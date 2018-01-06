@@ -1,0 +1,15 @@
+<heritage-individual>
+	<item name="Computer History Museum" type="museum" id="b78b3561aad8c1b3b0fd8d4024b60945">
+		<contact-list>
+			<contact medium="twitter">@ComputerHistory</contact>
+			<contact medium="https">www.computerhistory.org</contact>
+		</contact-list>
+		<bio>
+			The mission of the Computer History Museum is to preserve and present for posterity the artifacts and stories of the Information Age.
+			
+			The Computer History Museum is a nonprofit organization with a four-decade history as the world’s leading institution exploring the history of computing and its ongoing impact on society. The Museum is dedicated to the preservation and celebration of computer history and is home to the largest international collection of computing artifacts in the world, encompassing computer hardware, software, documentation, ephemera, photographs, oral histories, and moving images.
+
+The Museum brings computer history to life through large-scale exhibits, an acclaimed speaker series, a dynamic website, docent-led tours and an award-winning education program.
+		</bio>
+	</item>
+</heritage-individual>

@@ -1,0 +1,11 @@
+<heritage-individual>
+	<item name="The Centre for Computing History" type="museum" id="0b5b77b2514906351db19fde6af57609">
+		<contact-list>
+			<contact medium="twitter">@computermuseum</contact>
+			<contact medium="https">www.computinghistory.org.uk</contact>
+		</contact-list>
+		<bio>
+			The Centre for Computing History is much more than a museum. Based in Cambridge, it hosts hands-on exhibitions, educational workshops and a wide range of activities and events. Most importantly, it makes the history of computing relevant and fun for all ages!
+		</bio>
+	</item>
+</heritage-individual>
