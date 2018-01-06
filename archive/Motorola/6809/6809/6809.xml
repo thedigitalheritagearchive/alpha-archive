@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-chip>
+	<item name="6809" type="chip" id="12a1df6a3be676653a111f6d71508e5e">
+		<abstract>6809</abstract>
+		<editorial></editorial>
+		<references>
+			<xref href="https://en.wikipedia.org/wiki/Motorola_6809" format="html" scope="external">https://en.wikipedia.org/wiki/Motorola_6809</xref>
+		</references>
+		<commentary></commentary>
+		<note>
+			<opinion individual_id=""></opinion>
+		</note>
+
+	</item>
+</heritage-chip>

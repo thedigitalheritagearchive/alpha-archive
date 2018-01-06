@@ -1,0 +1,11 @@
+<heritage-individual>
+	<item name="Steven Goodwin" type="person" id="c766fd09757766046f3bf1cc36c81a04">
+		<contact-list>
+			<contact medium="twitter">@marquisdegeek</contact>
+			<contact medium="https">www.marquisdegeek.com</contact>
+		</contact-list>
+		<bio>
+			General-purpose geek.
+		</bio>
+	</item>
+</heritage-individual>

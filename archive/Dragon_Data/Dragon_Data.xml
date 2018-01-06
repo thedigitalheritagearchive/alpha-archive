@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-company>
+	<item name="Dragon Data" type="company" id="5754d04a883c6762a54589626f4bec83">
+	<abstract>Dragon Data</abstract>
+	<editorial></editorial>
+	<references>
+		<xref href="https://en.wikipedia.org/wiki/Dragon_Data" format="html" scope="external">https://en.wikipedia.org/wiki/Dragon_Data</xref>
+	</references>
+	<commentary></commentary>
+	<note>
+		<opinion individual_id=""></opinion>
+	</note>
+
+
+<company from="" until="">
+	<name></name>
+	<address from="" until="">
+		<addr-line><addr number=""/><addr road=""/></addr-line>
+		<addr-line><addr town=""/><addr town=""/></addr-line>
+		<addr-line><addr country=""/><addr postcode=""/></addr-line>
+	</address>
+</company>
+</item>
+</heritage-company>

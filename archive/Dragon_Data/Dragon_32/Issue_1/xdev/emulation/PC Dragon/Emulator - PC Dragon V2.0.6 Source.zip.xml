@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-software>
+	<item name="Emulator - PC Dragon V2.0.6 Source.zip" type="software" id="c6d605035849525789f25e8943ebf18d" content="16cf2262e956ee15ec2ed6dc16cd3bde">
+		<abstract>Emulator - PC Dragon V2.0.6 Source.zip</abstract>
+		<editorial></editorial>
+		<references>
+			<xref href="https://www.zophar.net/coco/pc-dragon-ii.html" format="html" scope="external">https://www.zophar.net/coco/pc-dragon-ii.html</xref>
+		</references>
+		<commentary></commentary>
+		<note>
+			<opinion individual_id=""></opinion>
+		</note>
+		
+		<compatibility-list>
+			<compatibility ref="115ffd1a4cfb87b91c3f81eadda4ebcf"/>
+		</compatibility-list>
+	</item>
+</heritage-software>

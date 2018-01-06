@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-sku>
+	<item name="Issue 1" type="sku" id="8356654b4496e82090567f160e1dcaf0">
+	<abstract>Issue 1</abstract>
+	<editorial></editorial>
+	<references>
+		<xref href="http://www.computinghistory.org.uk/det/1337/Dragon-32/" format="html" scope="external"></xref>
+	</references>
+	<commentary></commentary>
+	<note>
+		<opinion individual_id=""></opinion>
+	</note>
+
+
+<production>
+	<!-- Keeping track of the owner(s) of each machine, along with other mods that may have occured -->
+	<serial ref="048512 DG">
+		<provenance from='1985?' until='now'>
+			<owner id="c766fd09757766046f3bf1cc36c81a04">Steven Goodwin</owner>
+			<notes>From a car boot sale in Clacton</notes>
+			<price currency='gbp' amount='20'/>
+			<proof/>
+		</provenance>
+	</serial>
+
+</production>
+</item>
+</heritage-sku>

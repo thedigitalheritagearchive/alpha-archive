@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-software>
+	<item name="cmoc-0.1.45.tar.gz" type="software" id="1f5617a54499225eb3bf97f3a7311a31" content="94013ed1e971d5cc9c33431e5133828b">
+	<abstract>cmoc-0.1.45.tar.gz</abstract>
+	<editorial></editorial>
+	<references>
+		<xref href="https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html" format="html" scope="external">https://perso.b2b2c.ca/~sarrazip/dev/cmoc.html</xref>
+	</references>
+	<commentary></commentary>
+	<note>
+		<opinion individual_id=""></opinion>
+	</note>
+
+
+<compatibility-list>
+	<compatibility ref=""/>
+</compatibility-list>
+</item>
+</heritage-software>

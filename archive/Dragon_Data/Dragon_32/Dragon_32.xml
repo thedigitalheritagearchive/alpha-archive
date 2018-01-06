@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-product>
+	<item name="Dragon 32" type="product" id="f7f4cec1ea39c2b3df89ef527f176c11">
+	<abstract>Dragon 32</abstract>
+	<editorial></editorial>
+	<references>
+		<xref href="http://worldofdragon.org" format="html" scope="external">worldofdragon.org</xref>
+		<xref href="http://dragon32.info/" format="html" scope="external">http://dragon32.info/</xref>
+	</references>
+	<commentary></commentary>
+	<note>
+		<opinion individual_id=""></opinion>
+	</note>
+
+</item>
+</heritage-product>

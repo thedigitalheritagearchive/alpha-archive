@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-software>
+	<item name="WinCMOC v0.6.exe" type="software" id="a19a39043d9d6e4b6a5c7e8622ba5a7f" content="2149666cdf3c67272849b1fd8c6e7faf">
+		<abstract>WinCMOC v0.6.exe</abstract>
+		<editorial></editorial>
+		<references>
+			<xref href="https://sourceforge.net/projects/cmoc-win32/" format="html" scope="external">https://sourceforge.net/projects/cmoc-win32/</xref>
+		</references>
+		<commentary></commentary>
+		<note>
+			<opinion individual_id=""></opinion>
+		</note>
+
+		<compatibility-list>
+			<compatibility ref="115ffd1a4cfb87b91c3f81eadda4ebcf"/>
+			<compatibility ref="069b31a8ad1115407fc6cc9f46f97561"/>
+		</compatibility-list>
+	</item>
+</heritage-software>

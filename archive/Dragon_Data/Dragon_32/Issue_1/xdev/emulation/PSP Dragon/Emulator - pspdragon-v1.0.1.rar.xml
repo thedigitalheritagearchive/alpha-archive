@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-software>
+	<item name="Emulator - pspdragon-v1.0.1.rar" type="software" id="6211aa2803e97f718e7d8fd9cbac1be2" content="8b8b1b84b75f824d564f6ca75ceaeb6e">
+		<abstract>Emulator - pspdragon-v1.0.1.rar</abstract>
+		<editorial></editorial>
+		<references>
+			<xref href="http://www.6809.org.uk/dragon/xroar.shtml" format="html" scope="external">http://www.6809.org.uk/dragon/xroar.shtml (original xroar)</xref>
+			<xref href="http://zx81.zx81.free.fr" format="html" scope="external">http://zx81.zx81.free.fr (PSP port)</xref>
+		</references>
+		<commentary></commentary>
+		<note>
+			<opinion individual_id=""></opinion>
+		</note>
+
+		<compatibility-list>
+			<compatibility ref="f263c34a5030a71dcf57e54fd2093b2a"/>
+		</compatibility-list>
+	</item>
+</heritage-software>

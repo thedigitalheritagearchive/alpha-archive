@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<heritage-machine>
+  <item type="machine" name="Dragon 32" ref="8356654b4496e82090567f160e1dcaf0">
+
+    <references>
+      <xref href="http://dragon32.info/info" format="html" scope="external">http://dragon32.info/info</xref>
+    </references>
+
+    <machine>
+      <cpu name="6809" ref="12a1df6a3be676653a111f6d71508e5e">
+        <bus id="mainmemory" type="memory">
+          <memory address="0" id="ram" size="32768" access="rw"/>
+          <memory address="32768" id="rom" size="16384" access="r">
+            <contents>
+              <data offset="0" ref="4131fb671a3fa467cf50387ce16af6c1"/>
+            </contents>
+          </memory>
+          <memory address="49152" id="dosrom" size="8192" access="r"/>
+          <memory address="65280" id="pia" size="256" access="rw"/>
+        </bus>
+      </cpu>
+    </machine>
+  </item>
+</heritage-machine>

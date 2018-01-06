@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-software>
+	<item name="Emulator - T3-100.ZIP" type="software" id="75d0d4fa539abe3b06bd67f16c6ab09e" content="a0bb908efa97a64d79aad9762cb4e2ce">
+		<abstract>Emulator - T3-100.ZIP</abstract>
+		<editorial></editorial>
+		<references>
+			<xref href="https://www.zophar.net/coco/t3.html" format="html" scope="external">https://www.zophar.net/coco/t3.html</xref>
+			<xref href="http://www.burgins.com/t3.html" format="html" scope="external">Authords site (defunct)</xref>
+		</references>
+		<commentary></commentary>
+		<note>
+			<opinion individual_id=""></opinion>
+		</note>
+
+		<compatibility-list>
+			<compatibility ref="115ffd1a4cfb87b91c3f81eadda4ebcf"/>
+		</compatibility-list>
+	</item>
+</heritage-software>

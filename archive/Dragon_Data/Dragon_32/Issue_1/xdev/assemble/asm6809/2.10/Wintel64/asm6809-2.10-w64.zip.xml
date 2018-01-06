@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-software>
+	<item name="asm6809-2.10-w64.zip" type="software" id="5c6c385052d12c053f1b1faffcbababa" content="6c2c6e860246aec81923ce4794735d40">
+		<abstract>asm6809-2.10-w64.zip</abstract>
+		<editorial></editorial>
+		<references>
+			<xref href="http://www.6809.org.uk/asm6809/" format="html" scope="external">http://www.6809.org.uk/asm6809/</xref>
+		</references>
+		<commentary></commentary>
+		<note>
+			<opinion individual_id=""></opinion>
+		</note>
+
+		<compatibility-list>
+			<compatibility ref="069b31a8ad1115407fc6cc9f46f97561"/>
+		</compatibility-list>
+	</item>
+</heritage-software>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<heritage-software>
+	<item name="Emulator - xroar-0.17-windows32.zip" type="software" id="724a0911eb0d5085f572ad233c7d988a" content="b17fe6de77d4f93c6f5556d972a59643">
+		<abstract>Emulator - xroar-0.17-windows32.zip</abstract>
+		<editorial></editorial>
+		<references>
+			<xref href="http://www.6809.org.uk/xroar/" format="html" scope="external">http://www.6809.org.uk/xroar/</xref>
+		</references>
+		<commentary></commentary>
+		<note>
+			<opinion individual_id=""></opinion>
+		</note>
+
+		<compatibility-list>
+			<compatibility ref="115ffd1a4cfb87b91c3f81eadda4ebcf"/>
+		</compatibility-list>
+	</item>
+</heritage-software>
